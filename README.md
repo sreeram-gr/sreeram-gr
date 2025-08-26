@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Software Test Automation of Web UI and API applications.
-- 👯 I’m looking to collaborate on Software Test Automation Projects.
+- 🔭 I’m Software Engineer currently working on Software Test Automation of Web UI and API applications.
 - 😄 Pronouns: He/Him
